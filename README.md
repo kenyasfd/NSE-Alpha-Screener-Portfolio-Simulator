@@ -115,45 +115,35 @@ is fairly compared relative to the full universe — not on absolute numbers.
 
 ## Screenshots
 
+## Data Used
+
+![Stock Data](01_stock_data.png)
+
 ### Executive Dashboard_1
 
-![Dashboard](screenshots/05_dashboard_1.png)
+![Dashboard](05_dashboard_1.png)
 
 ### Executive Dashboard_2
 
-![Dashboard](screenshots/05_dashboard_2.png)
+![Dashboard](05_dashboard_2.png)
 
 ### Stock Screener — Scoring Engine
 
-![Screener](screenshots/02_screener.png)
+![Screener](02_screener.png)
 
 ### Portfolio Simulator
 
-![Portfolio](screenshots/03_portfolio_sim.png)
+![Portfolio](03_portfolio_sim.png)
 
 ### Sector Analysis
 
-![Sector](screenshots/04_sector_analysis.png)
+![Sector](04_sector_analysis.png)
 
 ### Assumptions
 
-![Assumptions](screenshots/06_assumptions.png)
+![Assumptions](06_assumptions.png)
 
 ---
-
-## Repository Structure
-
-```
- NSE-Alpha-Screener/
-│
-├──  NSE_Alpha_Screener_Dec2024.xlsx
-├──  README.md
-└──  screenshots/
-    ├── 01_dashboard.png
-    ├── 02_screener.png
-    ├── 03_portfolio_sim.png
-    └── 04_sector_analysis.png
-```
 
 ---
 
@@ -206,6 +196,3 @@ Data Analyst in | Excel • SQL • Python • Power BI
 ---
 
 _If you found this project useful, please give it a star!_
-
-
-
