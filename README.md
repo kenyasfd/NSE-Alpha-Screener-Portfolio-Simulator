@@ -191,7 +191,7 @@ before making investment decisions. Data is as at December 2024.
 **[Stephen Maina]**
 Data Analyst in | Excel • SQL • Python • Power BI
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/kenyasfd)
 
 ---
 
